@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[327],{477:function(e){e.exports=JSON.parse('{"title":"Tutorial overview","slug":"/category/tutorial","permalink":"/web-note/docs/category/tutorial","navigation":{"previous":{"title":"mysql","permalink":"/web-note/docs/home"},"next":{"title":"About-1","permalink":"/web-note/docs/a/"}}}')}}]);
