@@ -1,5 +1,5 @@
 ---
-id: about-1
+id: about1
 title: about-1
 sidebar_position: 1
 sidebar_label: About-1

@@ -4,7 +4,8 @@
 	"collapsible": true,
 	"collapsed": false,
 	"className": "red",
-	"customProps": {
-		"description": "This description can be used in the swizzled DocCard"
+	"link": {
+		"type": "generated-index",
+		"title": "Tutorial overview"
 	}
 }

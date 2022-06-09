@@ -8,15 +8,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
 	title: "Haibo site",
 	tagline: "Learning Note",
-	url: "haibo.online",
+	url: "https://json-hb.github.io/web-note",
 	baseUrl: "/",
-	onBrokenLinks: "throw",
+	onBrokenLinks: "ignore",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
-	organizationName: "facebook", // Usually your GitHub org/user name.
+	organizationName: "jason", // Usually your GitHub org/user name.
 	projectName: "haibo", // Usually your repo name.
 
 	// Even if you don't use internalization, you can use this field to set useful
