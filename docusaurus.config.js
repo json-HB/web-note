@@ -9,7 +9,7 @@ const config = {
 	title: "Haibo site",
 	tagline: "Learning Note",
 	url: "https://json-hb.github.io/web-note",
-	baseUrl: "/",
+	baseUrl: "/web-note/",
 	onBrokenLinks: "ignore",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
