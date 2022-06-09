@@ -4,12 +4,14 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
+const isDev = process.env.NODE_ENV == 'development';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Haibo site",
 	tagline: "Learning Note",
-	url: "https://json-hb.github.io/web-note",
-	baseUrl: "/web-note/",
+	url: isDev ? 'http://localhost:3000' : "https://json-hb.github.io/web-note",
+	baseUrl: isDev ? '/' : "/web-note/",
 	onBrokenLinks: "ignore",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
