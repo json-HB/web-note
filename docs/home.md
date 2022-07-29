@@ -1,6 +1,15 @@
 ---
-title: Home
 id: home
+title: home
+sidebar_position: 1
 ---
 
-## Home
+
+
+## welcome
+
+:::info
+
+some util collection
+
+:::
